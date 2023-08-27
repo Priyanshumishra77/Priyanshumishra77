@@ -1,5 +1,9 @@
 <h1 align="center">Hi Everyone 👋 I'm Priyanshu Mishra</h1>
-<div align="center"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wNgHtVArJqDWFZH7DUcwAbzpu26klwPbCU4ebsHtrqHBB_lyIXJHLglmmgXCrG49_ynkjnlWxFBFQOfWyPqBXraxSJqg=s2560"> </div>
+<p align="center">
+  <img src= "https://media.giphy.com/media/iJDITngTvoma03ak0N/giphy.gif">
+</p>
+
+<div align="right"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wNgHtVArJqDWFZH7DUcwAbzpu26klwPbCU4ebsHtrqHBB_lyIXJHLglmmgXCrG49_ynkjnlWxFBFQOfWyPqBXraxSJqg=s2560"> </div>
 <h3 align="center">Computer Architecture and Verification Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
