@@ -1,4 +1,9 @@
 <h1 align="center">Hi Everyone 👋 I'm Priyanshu Mishra</h1>
+<div align="center"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wNgHtVArJqDWFZH7DUcwAbzpu26klwPbCU4ebsHtrqHBB_lyIXJHLglmmgXCrG49_ynkjnlWxFBFQOfWyPqBXraxSJqg=s2560"> </div>
+<h3 align="center">Computer Architecture and Verification Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 <h3 align="center">A passionate VLSI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumishra77&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshumishra77" /> </p>
