@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **HPC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Priyanshumishra77](https://github.com/Priyanshumishra77)
+- 👨‍💻 All of my D-I-Y projects will be available soon at [https://github.com/Priyanshumishra77](https://github.com/Priyanshumishra77)
 
 - 💬 Ask me about **Computer Architecture, VLSI and AI**
 
