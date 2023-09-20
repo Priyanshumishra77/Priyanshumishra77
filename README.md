@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone 👋 I'm Priyanshu Mishra</h1>
+<h1 align="center">Hi Everyone 👋 I'm VLSI AND COMPUTER ARCHITECTURE & I like Priyanshu</h1>
 <p align="center">
   <img src= "https://media.giphy.com/media/iJDITngTvoma03ak0N/giphy.gif">
 </p>
