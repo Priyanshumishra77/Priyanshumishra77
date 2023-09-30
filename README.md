@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my D-I-Y projects will be available soon at [https://github.com/Priyanshumishra77](https://github.com/Priyanshumishra77)
 
-- 💬 Ask me about **Computer Architecture, VLSI and AI**
+- 💬 Ask me about **Computer Architecture, VLSI and AI-Hardware**
 
 - 📫 How to reach me **mpriyanshu236@gmail.com**
 
