@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyans57411485" target="blank"><img src="https://img.shields.io/twitter/follow/priyans57411485?logo=twitter&style=for-the-badge" alt="priyans57411485" /></a> </p>
 
-- 🌱 Inspired by **UC Berkeley/MIT classes**, **Teaching **CS 152/252A, High-performance RISC-V CPU Design and Verification(Architecture and sub-system level)**
+- 🌱 Inspired by **UC Berkeley/MIT classes, Teaching CS 152/252A, High-performance RISC-V CPU Design and Verification(Architecture and sub-system level)**
 - 🌱 I’m currently learning **HPC**
 
 - 👨‍💻 All of my D-I-Y projects will be available soon at [https://github.com/Priyanshumishra77](https://github.com/Priyanshumishra77)
