@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Computer Architecture, VLSI and AI-Hardware**
 
-- 📫 How to reach me **mpriyanshu236@gmail.com**
+- 📫 How to reach me **priyanshud141@gmail.com**
 
 - ⚡ Fun fact **Not sure**
 
