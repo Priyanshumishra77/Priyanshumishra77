@@ -28,11 +28,11 @@ I’m drawn to the tools that expand what people can build and experience—from
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="Person working at a multi-monitor engineering workstation">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" alt="Person working at a multi-monitor engineering workstation">
       <br><sub>Where ideas turn into working systems</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-wNgHtVArJqDWFZH7DUcwAbzpu26klwPbCU4ebsHtrqHBB_lyIXJHLglmmgXCrG49_ynkjnlWxFBFQOfWyPqBXraxSJqg=s2560"><img src="https://media.giphy.com/media/iJDITngTvoma03ak0N/giphy.gif" width="400" alt="Original virtual-reality visual from my profile, representing HoloLens and Meta-style spatial computing"></a>
+      <a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-wNgHtVArJqDWFZH7DUcwAbzpu26klwPbCU4ebsHtrqHBB_lyIXJHLglmmgXCrG49_ynkjnlWxFBFQOfWyPqBXraxSJqg=s2560"><img src="https://media.giphy.com/media/iJDITngTvoma03ak0N/giphy.gif" width="240" alt="Original virtual-reality visual from my profile, representing HoloLens and Meta-style spatial computing"></a>
       <br><sub>Curiosity about spatial computing and what comes next</sub>
     </td>
   </tr>
