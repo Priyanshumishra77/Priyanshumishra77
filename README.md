@@ -40,7 +40,7 @@ I’m drawn to the tools that expand what people can build and experience—from
 
 ## Research in progress
 
-I’m exploring how memory scheduling and last-level-cache allocation affect an RISC-V CPU and an inference accelerator under mixed workloads. This is an **early research proposal**; implementation, simulation, and measured results remain future work.
+My broader research interest is **domain-specific, energy-efficient hardware architectures**. My current proposal explores how memory scheduling and last-level-cache allocation affect an RISC-V CPU and an inference accelerator under mixed workloads. This is an **early research proposal**; implementation, simulation, and measured results remain future work.
 
 [Read the full proposal →](https://priyanshumishra77.github.io/priyanshu.github.io/portfolio/workload-aware-memory-scheduling/)
 
